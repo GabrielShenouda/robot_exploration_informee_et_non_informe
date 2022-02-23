@@ -11,6 +11,7 @@ The hoover robot evolves in an environment where dust and jewels appear randomly
 The goal is to clean the environment and keep it clean.
 
 To do this we implement two search algorithms: 
+
 - The Depth-First-Search
 ![dfs](https://user-images.githubusercontent.com/59508102/155383097-689d7d31-9182-4aed-9adb-f98a4a7a5a6f.jpg)
 
