@@ -16,6 +16,7 @@ To do this we implement two search algorithms:
 ![dfs](https://user-images.githubusercontent.com/59508102/155383097-689d7d31-9182-4aed-9adb-f98a4a7a5a6f.jpg)
 
 - A*
+
 ![Astar](https://user-images.githubusercontent.com/59508102/155383059-5e13c85a-f383-4cfb-be4d-ce5d41ba3150.jpg)
 
 With the following heuristic :
